@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is **Firman Adiyuda**. I was born in Jakarta, January 25, 2000. Since junior high school, I have loved and been involved in IT and Multimedia fields such as Web Design & Development, Graphic Design, Videography, and Music Composing. Becoming a competent person in the area of interest that I mentioned above is a dream that I must achieve.
 
@@ -6,12 +6,17 @@ I'm currently studying at **Sebelas Maret University** majoring in **Computer In
 
 I'm good at Laravel Framework, Bootstrap, Tailwind, HTML, and CSS. I can also operate multimedia software such as Premiere Pro, After Effects, Photoshop, Illustrator and CorelDraw.
 
+---
 
-How to reach me:
+<span align="right">
+  
+[![EMAIL](https://img.shields.io/badge/firmanadiyuda@gmail.com-LOGO?label=Email&logo=gmail&color=red&labelColor=white&logoColor=red)](mailto:firmanadiyuda@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-LOGO?label=&logo=linkedin&color=0077B5&labelColor=white&logoColor=0077B5)](https://linkedin.com/in/firmanadiyuda)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-LOGO?label=&logo=instagram&color=E1306C&labelColor=white)](https://instagram.com/firmanadiyuda)
+[![TWITTER](https://img.shields.io/badge/Twitter-LOGO?label=&logo=twitter&color=1DA1F2&labelColor=white)](https://twitter.com/firmanadiyuda)
 
-:email: : firmanadiyuda@gmail.com
-
-
+</span>
+  
 <!--
 **firmanadiyuda/firmanadiyuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
