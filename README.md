@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-You can call me **Firman Adiyuda**. I was born in Jakarta, January 25, 2000. Since junior high school, I have loved and been involved in IT and Multimedia fields such as Programming, Graphic Design, and Videography. Becoming a competent person in the area of interest that I mentioned above is a dream that I must achieve.
-
-I'm currently studying at **Sebelas Maret University** majoring in **Computer Informatics Engineering Education**.
+You can call me **Firman Adiyuda**. Since junior high school, I have loved and been involved in IT and Multimedia fields such as Programming, Graphic Design, and Videography. Becoming a competent person in the area of interest that I mentioned above is a dream that I must achieve.
 
 I'm good at Laravel Framework, Bootstrap, Tailwind, HTML, and CSS. I can also operate multimedia software such as Premiere Pro, After Effects, Photoshop, Illustrator and CorelDraw.
 
